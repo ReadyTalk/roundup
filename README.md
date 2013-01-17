@@ -5,7 +5,7 @@ Overview
 --------
 
  * roundup(1): a unit testing tool designed for bash
- * roundup(5): test plans for roundup(5)
+ * roundup(5): test plans for roundup(1)
 
 Supported shells
 ----------------
